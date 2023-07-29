@@ -1,0 +1,43 @@
+Exercicio 1:
+Baseado em reportagem da Revisa Veja (16/03/2018) intitulada “Atraso
+total”.
+Depois de anos sendo pilhado por dirigentes ligados às centrais sindicais e
+indicados pelo governo federal, os Correiros encontram-se em crise e com
+prejuízos bilionários, aplicam um tarifaço aos serviços de entrega que
+atingem em cheio milhares de pequenos empresários e clientes do comércio
+eletrônico.
+Estima-se que despachar no Brasil um pacote com 500 gramas para uma
+distância de 500 km fique 42% mais caro que na argentina, 160% acima
+do cobrado no México e 282% superior à tarifa aplicada na Colômbia. Certo professor famoso da FHO, aquele com sobrenome difícil de soletrar,
+costuma comprar equipamentos esportivos por meio do e-commerce.
+Recentemente ele comprou equipamentos para esquiar nos Alpes Suíços e
+pagou R$500,00 pelos serviços de entrega dos Correios.
+
+Desenvolva um pseudocódigo que mostre qual seria o valor de serviço de
+entrega no México e na Colômbia, baseando-se no modelo da fórmula abaixo,
+que se refere ao custo de entrega na Argentina.
+
+CustoArgentina = ( CustoBrasil * 100 / 142)
+
+A entrada de dados consiste em um valor a ser digitado, correspondente ao
+serviço pago no Brasil (em reais).
+A saída de dados deve se em duas linhas, contendo valores calculados no
+programa, com duas casas decimais, referentes ao custo no México e ao custo
+na Colômbia, como apresentado no exemplo.
+
+Exemplo de entrada      Exemplo de saida
+    500.00              Mexico: 192.331
+                        Colombia: 130.89
+
+
+Exercicio 2:
+Um conhecido professor do curso de Sistemas de Informação está
+investindo em um terreno para construir o lar com quem vai passar lindos
+dias com sua amada.
+Um corretor de imóveis levou-o para conhecer vários terrenos, dentre os
+quais um chamou a atenção do professor, que anotou em um papel as
+medidas de cada um dos quatro lados do terreno.
+
+Acontece que o professor pediu sua ajuda para desenvolver um algoritmo
+que possibilite entrar com as dimensões do terreno e informar se ele forma
+um quadrado, um retângulo ou se forma “outra figura”.

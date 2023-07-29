@@ -1,0 +1,37 @@
+Bee1001 (https://www.beecrowd.com.br/judge/pt/problems/view/1001):
+Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+
+Entrada
+A entrada contém 2 valores inteiros.
+
+Saída
+Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
+
+Bee1004 (https://www.beecrowd.com.br/judge/pt/problems/view/1004):
+Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável PROD. A seguir mostre a variável PROD com mensagem correspondente.   
+
+Entrada
+O arquivo de entrada contém 2 valores inteiros.
+
+Saída
+Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade. Não esqueça de imprimir o fim de linha após o produto, caso contrário seu programa apresentará a mensagem: “Presentation Error”.
+
+Bee1007 (https://www.beecrowd.com.br/judge/pt/problems/view/1007):
+Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
+
+Entrada
+O arquivo de entrada contém 4 valores inteiros.
+
+Saída
+Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
+
+Bee1020 (https://www.beecrowd.com.br/judge/pt/problems/view/1020):
+Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
+
+Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
+
+Entrada
+O arquivo de entrada contém um valor inteiro.
+
+Saída
+Imprima a saída conforme exemplo fornecido.

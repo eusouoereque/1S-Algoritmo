@@ -1,0 +1,42 @@
+Bee1009 (https://www.beecrowd.com.br/judge/pt/problems/view/1009):
+Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
+
+Entrada
+O arquivo de entrada contém um texto (primeiro nome do vendedor) e 2 valores de dupla precisão (double) com duas casas decimais, representando o salário fixo do vendedor e montante total das vendas efetuadas por este vendedor, respectivamente.
+
+Saída
+Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
+
+
+Bee1011 (https://www.beecrowd.com.br/judge/pt/problems/view/1011):
+Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de seu raio (R). A fórmula para calcular o volume é: (4/3) * pi * R3. Considere (atribua) para pi o valor 3.14159.
+
+Dica: Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas linguagens (dentre elas o C++), assumem que o resultado da divisão entre dois inteiros é outro inteiro.
+
+Entrada
+O arquivo de entrada contém um valor de ponto flutuante (dupla precisão), correspondente ao raio da esfera.
+
+Saída
+A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, com um espaço antes e um espaço depois da igualdade. O valor deverá ser apresentado com 3 casas após o ponto.
+
+
+Bee1015 (https://www.beecrowd.com.br/judge/pt/problems/view/1015):
+Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula, segundo a fórmula:
+
+Distancia = (exemplo)
+
+Entrada
+O arquivo de entrada contém duas linhas de dados. A primeira linha contém dois valores de ponto flutuante: x1 y1 e a segunda linha contém dois valores de ponto flutuante x2 y2.
+
+Saída
+Calcule e imprima o valor da distância segundo a fórmula fornecida, com 4 casas após o ponto decimal.
+
+
+Bee1017 (https://www.beecrowd.com.br/judge/pt/problems/view/1017):
+Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso, ele gostaria que você o auxiliasse através de um simples programa. Para efetuar o cálculo, deve-se fornecer o tempo gasto na viagem (em horas) e a velocidade média durante a mesma (em km/h). Assim, pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. Mostre o valor com 3 casas decimais após o ponto.
+
+Entrada
+O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viagem (em horas) e o segundo é a velocidade média durante a mesma (em km/h).
+
+Saída
+Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal

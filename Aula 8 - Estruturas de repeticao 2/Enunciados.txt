@@ -1,0 +1,46 @@
+Exercicio 1:
+Uma entidade assistencial recebeu R$1.500,00 em doações para compra
+de ovos de Páscoa. Um funcionário dessa entidade tem no carrinho de
+compras uma quantidade de ovos, de vários tipos e tamanhos, que se
+somados os valores provavelmente passe do montante doado. Então,
+alguns desses ovos vão ficar no supermercado.
+Acontece que o caixa do supermercado também quer participar desta
+empreitada e disse que completará o valor necessário de apenas um item,
+logo que o valor da compra passar do montante que a entidade tem para
+gastar.
+Faça um algoritmo que possibilite ir entrando, um a um, com vários itens
+comprados, de tal forma que se interrompa conforme as condições
+estabelecidas (cada item tem a quantidade e preço individual).
+Informar quantos ovos serão comprados e quanto de dinheiro o caixa do
+supermercado vai completar para o pagamento.
+
+
+Bee1113 (https://www.beecrowd.com.br/judge/pt/problems/view/1113):
+Leia uma quantidade indeterminada de duplas de valores inteiros X e Y. Escreva para cada X e Y uma mensagem que indique se estes valores foram digitados em ordem crescente ou decrescente.
+
+Entrada
+A entrada contém vários casos de teste. Cada caso contém dois valores inteiros X e Y. A leitura deve ser encerrada ao ser fornecido valores iguais para X e Y.
+
+Saída
+Para cada caso de teste imprima “Crescente”, caso os valores tenham sido digitados na ordem crescente, caso contrário imprima a mensagem “Decrescente”.
+
+
+Bee1117 (https://www.beecrowd.com.br/judge/pt/problems/view/1117):
+Faça um programa que leia as notas referentes às duas avaliações de um aluno. Calcule e imprima a média semestral. Faça com que o algoritmo só aceite notas válidas (uma nota válida deve pertencer ao intervalo [0,10]). Cada nota deve ser validada separadamente.
+
+Entrada
+A entrada contém vários valores reais, positivos ou negativos. O programa deve ser encerrado quando forem lidas duas notas válidas.
+
+Saída
+Se uma nota inválida  for lida, deve ser impressa a mensagem "nota invalida".
+Quando duas notas válidas forem lidas, deve ser impressa a mensagem "media = " seguido do valor do cálculo. O valor deve ser apresentado com duas casas após o ponto decimal.
+
+
+Bee1134 (https://www.beecrowd.com.br/judge/pt/problems/view/1134):
+Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado quando o código informado for o número 4.
+
+Entrada
+A entrada contém apenas valores inteiros e positivos.
+
+Saída
+Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.

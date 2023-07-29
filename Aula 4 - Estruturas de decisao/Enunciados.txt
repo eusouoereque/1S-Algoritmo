@@ -1,0 +1,81 @@
+Exercicio 1:
+A nota final de um estudante é
+calculada a partir de três notas atribuídas, respectivamente, a um trabalho
+de laboratório, a uma avaliação semestral e a um exame final. A média das
+três notas mencionadas obedece aos pesos a seguir:
+
+Faça um programa que receba as três notas, calcule e mostre a média
+ponderada e o conceito que segue a tabela:
+
+        NOTA                PESO
+Trabalho de laboratório       2
+Avaliação semestral           3
+Exame final                   5
+
+MÉDIA PONDERADA     CONCEITO
+>=9 E <= 10            A
+>=7 E < 9              B
+>=5 E < 7              C
+>=3 E < 5              D
+>=0 E < 3              E
+
+
+Exercicio 2:
+O índice de Massa Corporal (IMC) é uma fórmula que indica se um
+adulto está acima do peso, se está obeso ou abaixo do peso ideal. A
+fórmula para calcular o Índice de Massa Corporal é:
+
+IMC = peso / altura2
+
+Desenvolver um algoritmo que solicite nome, altura e peso, calcule
+e exiba o IMC, e ainda exiba a condição encontrada. A Organização
+Mundial de Saúde usa um critério simples para apontar a Condição
+da pessoa de acordo com o IMC, como demonstrado abaixo.
+
+    IMC em adultos       Condição
+    abaixo de 18,5      abaixo do peso
+entre >=18,5 e < 25     no peso normal
+entre >=25 e <= 30      acima do peso
+     acima de 30        obeso
+
+
+Exercicio 3:
+Faça um programa que receba dois
+números e execute as operações listadas a seguir:
+
+a- Média entre os números digitados;
+b- Diferença do maior pelo menor;
+c- Produto entre os números digitados;
+d- Divisão do primeiro pelo segundo;
+e- Dizer se cada um dos números é par ou ímpar.
+
+
+DESAFIO:
+
+Em relação aos ODS, o objetivo 3 refere-se a “Boa Saúde e Bem-Estar”. O indicador 3.c.1 diz
+respeito ao número de profissionais de saúde por habitante.
+A Organização Mundial de Saúde (OMS) mostra que, em 2019, o Brasil possuía 23,11 médicos
+
+para cada 10.000 habitantes. Fonte: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/medical-doctors-(per-10-000-population).
+
+Segundo a Demografia Médica produzida pelo Conselho Federal de Medicina (CFM), existiam
+
+502.475 médicos no Brasil em 2020. Fonte: https://portal.cfm.org.br/noticias/explode-numero-de-medicos-no-brasil-mas-distorcoes-na-distribuicao-dos-profissionais-ainda-e-desafio-para-gestores/#:~:text=Hoje%2C%20o%20pa%C3%ADs%2C%20com%20seus,Unido(2%2C8).
+
+Ainda segundo o CFM, os dados apontam que a proporção de médicos por habitantes no Brasil é
+superior à do Japão e se aproxima dos índices dos Estados Unidos, Canadá e Reino Unido.
+Embora temos médicos em número suficiente para atender a população brasileira, existe um
+sério problema de distribuição. Enquanto nos grande centros ocorre uma maior densidade de
+médicos em relação a sua população, outras regiões sofrem com a falta desses profissionais.
+A Tabela 13 (classroom) dessa demografia mostra a quantidade de médicos e a população por
+estado e região do Brasil.
+
+Desenvolva um algoritmo que tenha como entrada de dados o
+nome de um estado (ou região), sua população e a quantidade
+de médicos disponíveis.
+Apresente como resultados:
+a- Qual o número de habitantes para cada médico
+b- Qual a quantidade de médicos para cada 10.000 habitantes.
+Nesse caso mostrar também se esse estado (ou região) está
+abaixo, acima ou igual a média brasileira, que segundo a
+OMS é 23,11 médios para cada 10.000 habitantes.

@@ -1,0 +1,10 @@
+Exercicio 1:
+Escreva um algoritmo que leia dois números que deverão ser
+colocados, respectivamente, nas variáveis VA e VB. O algoritmo
+deve, então, trocar os valores de VA por VB e vice-versa e
+mostrar o conteúdo destas variáveis.
+
+Exercicio 2:
+Fazer um algoritmo para ler três notas de um aluno. Uma
+prova com peso de 70%, uma nota de exercícios com peso de
+20% e um trabalho com peso de 10%. Exibir a nota média.

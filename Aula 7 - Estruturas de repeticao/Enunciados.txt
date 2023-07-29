@@ -1,0 +1,31 @@
+Exercicio 1:
+Durante as aulas no laboratório Joãozinho vivia bagunçando e não
+prestava atenção. A professora em um dado momento pediu que
+ele escrevesse 100 vezes a frase "Não vou mais fazer bagunça
+durante a aula". Acontece que Joãozinho é muito "esperto" e
+convidou você para fazer um programa que exiba as frases
+solicitadas na tela do computador. Codifique o programa
+solicitado.
+
+
+Exercicio 2:
+Você foi convidado a fazer um programa que apresente o produto
+da multiplicação de dois números informados pelo usuário
+durante a execução do programa. Acontece que o operador de
+multiplicação (*) não está funcionando. De qualquer forma você
+deve fazer o programa.
+
+
+Exercicio 3:
+Obter a soma dos números múltiplos de 4 de um intervalo definido
+por dois números fornecidos pelo usuário. Cada múltiplo deve ser
+exibido na tela.
+
+Bee1070 (https://www.beecrowd.com.br/judge/pt/problems/view/1070):
+Leia um valor inteiro X. Em seguida apresente os 6 valores ímpares consecutivos a partir de X, um valor por linha, inclusive o X ser for o caso.
+
+Entrada
+A entrada será um valor inteiro positivo.
+
+Saída
+A saída será uma sequência de seis números ímpares.

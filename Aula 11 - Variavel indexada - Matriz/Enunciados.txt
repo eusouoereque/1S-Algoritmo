@@ -1,0 +1,17 @@
+Exercicio 1:
+Escrever um algoritmo para armazenar valores inteiros em
+um array 4 X 3. Calcular e exibir a média de todos os valores
+armazenados na matriz.
+
+
+Exercicio 2:
+Desenvolver um algoritmo que possibilite carregar, com
+números inteiros, os dados em uma matriz de 3 linhas e 4
+colunas. Calcule e apresente a soma dos elementos da linha 3.
+
+
+Exercicio 3:
+Escrever um algoritmo para armazenar valores inteiros em
+uma matriz 4 X 3. Após todos os dados armazenados, calcular
+e exibir a média dos valores armazenados em cada coluna,
+uma por uma.

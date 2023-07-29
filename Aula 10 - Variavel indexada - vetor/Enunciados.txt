@@ -1,0 +1,29 @@
+Exercicio 1:
+Desenvolver um algoritmo para ler 5 valores numéricos
+inteiros e armazene em um vetor.
+Em seguida deve ser preenchido um segundo vetor, com os
+mesmo valores do primeiro, só que em ordem inversa. O
+primeiro elemento de um vetor será o último do outro vetor.
+O segundo elemento de um será o penúltimo do outro e
+assim sucessivamente.
+
+
+Exercicio 2:
+Desenvolver um algoritmo para ler 10 valores numéricos do
+tipo real. Como resultado do processamento exiba quantos e
+quais elementos estão acima da média calculada entre eles.
+
+
+Exercicio 3:
+Declarar três variáveis indexadas A, B e C com capacidade
+para armazenar, cada uma, cinco elementos do tipo inteiro.
+Solicitar a entrada de dados para os elementos de A e B.
+Fazer cada elemento de C igual aos respectivos elementos de
+A multiplicado por B. Exibir todos os valores de A, B e C.
+
+
+Exercicio 4:
+Desenvolver um algoritmo que possibilite armazenar em
+uma variável indexada sete valores numéricos do tipo inteiro.
+Determinar qual é o menor valor armazenado e indicar qual
+posição da variável ele ocupa.

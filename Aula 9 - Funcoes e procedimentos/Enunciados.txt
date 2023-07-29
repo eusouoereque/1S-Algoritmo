@@ -1,0 +1,66 @@
+Exercicio 1:
+Faça um programa em que a entrada e saída de dados ocorram no
+algoritmo principal.
+O usuário deve informar um número inteiro qualquer.
+Esse número deve ser enviado para uma sub-rotina que, como
+processamento, estabeleça se o número é par ou ímpar.
+A sub-rotina deve devolver um conteúdo que possibilite a saída de
+dados no algoritmo principal.
+A saída de dados deve ser uma das duas mensagens abaixo:
+- Número é par;
+- Número é ímpar.
+
+
+Exercicio 2:
+Além de contar seus carros de luxo, um conhecido professor de matemática tem como hobby
+acompanhar corridas de lesmas.
+A corrida de lesmas é um esporte que cresceu muito nos últimos anos, fazendo com que várias
+pessoas dediquem suas vidas tentando capturar lesmas velozes, e treiná-las para faturar milhões
+em corridas pelo mundo. Porém a tarefa de capturar lesmas velozes não é uma tarefa muito fácil,
+pois praticamente todas as lesmas são muito lentas. Cada lesma é classificada em um nível
+dependendo de sua velocidade:
+a- Nível 1: Se a velocidade é menor que 10 cm/h.
+b- Nível 2: Se a velocidade é maior ou igual a 10 cm/h e menor que 20 cm/h.
+c- Nível 3: Se a velocidade é maior ou igual a 20 cm/h.
+
+Sua tarefa é desenvolver um programa, que use sub-rotina, para ajudar o digníssimo professor a
+identificar qual nível de velocidade da lesma mais veloz de um grupo de lesmas.
+
+Entrada: a entrada ocorre no programa principal e consiste de 5 número inteiros que representam
+a velocidade de cada uma das lesmas do grupo.
+
+Saída: a saída de dados deve ser exibida no programa principal e consiste em um valor numérico
+inteiro que indique qual o nível da lesma vencedora.
+
+
+Exercicio 3:
+Altere o programa das lesmas considerando:.
+
+Entrada: a entrada ocorre no programa principal e consiste de 5 número
+inteiros que representam a velocidade de cada uma das lesmas do grupo.
+
+Saída: A saída de dados deve ser exibida no programa principal e deve ser
+composta por três números: A velocidade da lesma vendedora; o nível
+da lesma vencedora; velocidade média das 5 lesmas do grupo.
+
+
+Exercicio 4:
+No início da graduação sabe-se que 90% dos alunos ingressantes tem sempre a expectativa de irem
+bem no curso e alguns deles querem estar acima da média da turma. Baseado em uma série de
+notas dos ingressantes do ano passado, o professor de matemática pede para você fazer um
+programa que ajude a entender se a expectativa dos alunos condiz com a realidade. Desenvolva
+uma função ou procedimento para verificar a porcentagem de alunos acima da média.
+Entrada de dados: ocorre no código principal, a primeira linha da entrada de dados corresponde
+ao número (N) de turmas a serem analisadas. Cada uma das outras N linhas representam uma
+turma de 5 alunos. Assim, cada linha contém as notas médias de 5 alunos.
+Saída: a saída de dados deve ocorrer no programa principal e para cada turma analisada imprima
+uma linha dando o percentual de estudantes que estão igual ou acima da média da turma, com o
+valor arredondado e com 1 casa decimal.
+(Adaptado de beecrowd ).
+
+Entrada             Saída
+4
+7 8 8 4 7           80.0%
+2,5 3,5 3,3 4 8     20.0%
+9,5 10 10 10 9,4    60.0%
+5 5 5 5 5           100.0%

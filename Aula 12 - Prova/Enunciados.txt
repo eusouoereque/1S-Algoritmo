@@ -1,0 +1,46 @@
+--Exercicio 1:
+Desenvolver um programa que leia 2 valores numéricos reais (x e y), que devem representar as coordenadas de um ponto em um plano.  
+
+O programa deve determinar a qual quadrante o ponto pertence, ou se este está sobre um dos eixos cartesianos ou na origem (x = 0; y = 0).
+ 
+Se o ponto estiver na origem, escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”.
+
+Toda entrada e saída de dados devem ser feita no programa principal. É obrigatório o uso de uma função com um retorno.
+
+A entrada deve conter as coordenadas de um ponto.
+
+A saída deve apresentar o quadrante em que o ponto se encontra (Q1, Q2, Q3 ou Q4) ou ainda “Origem”, “Eixo X” ou “Eixo Y”. 
+
+
+
+--Exercicio 2:
+Como já abordado em outros momentos, a educação tem papel de destaque para que a população de mais baixa renda consiga “entra” no elevador social e conquistar melhores condições econômicas e sociais. Neste sentido, o estado do Paraná tem voltado os olhos e desenvolvido ações para oferecer melhores condições educacionais para seus habitantes. 
+
+O Paraná é o estado que teve os maiores saltos no Ideb (Índice de Desenvolvimento da Educação Básica), medido pelo governo federal em todo o país. Nunca a educação pública do Paraná avançou tanto e em tão pouco tempo. 
+
+O estado, governado por Ratinho Junior, saiu da sétima colocação em 2017, quando tinha o índice de 3,7 (numa escala de zero a dez), e avançou para o topo do ranking, em 2021, com índice de 4,6, considerando as pontuações da rede pública no ensino médio. 
+
+O governo paranaense atribui o desempenho aos investimentos feitos e à adoção de novas metodologias, como um programa de intercâmbio que levou jovens ao Canadá e à Nova Zelândia e está com edital aberto para estudos em Estados Unidos, França e Inglaterra, além de aulas de robótica e educação financeira. Outra novidade foi a ampliação da educação em tempo integral, que cresceu 51% nos últimos anos e hoje está disponível para 55.000 alunos. 
+
+Diante do foco nessa área, o governador marcou viagem para a Coreia do Sul, país que tem um dos melhores desempenhos em leitura, matemática e ciências em todo o mundo. Os números do Paraná no Ideb, inclusive, foram um dos motivos para o governador de São Paulo, Tarcísio de Freitas, ter convidado o ex-secretário de Educação paranaense Renato Feder para assumir a pasta em sua gestão.
+
+Fontes:
+https://www.aen.pr.gov.br/Noticia/Qualidade-do-ensino-no-Parana-esta-entre-melhores-do-Brasil
+https://www.aen.pr.gov.br/Noticia/Educacao-publica-chegou-ao-topo-em-2022-e-cortou-distancia-para-escolas-particulares
+https://veja.abril.com.br/coluna/maquiavel/parana-tem-salto-no-ideb-do-ensino-medio-de-7o-para-1o-lugar
+
+
+Das 27 unidades federativas, os três maiores índices ideb são do Paraná (4,6), Goiás (4,5) e empatados na terceira posição estão empatados Ceará, Espírito Santo, Pernambuco e São Paulo com 4,4.
+Os três piores índices são dos estados Rio Grande do Norte (2,8), Pará (3,0) e Amapá (3,1). 
+
+A relação completa do ideb é: Acre 3,9; Alagoas 3,5; Amapá 3,1; Amazonas 3,6; Bahia 3,5; Ceará 4,4; Distrito Federal 4,0; Espírito Santo 4,4; Goiás 4,5; M. G. do Sul 3,7; Maranhão 3,5; Mato Grosso 3,6; Minas Gerais 4,0; Pará 3,0; Paraíba 3,9; Paraná 4,6; Pernambuco  4,4; Piauí 4,0; R. G. do Norte 2,8; R. G. do Sul 4,1; Rio de Janeiro 3,9; Rondônia 3,9; Roraima 3,7; Santa Catarina 3,6; São Paulo 4,4; Sergipe 3,9; Tocantins 4,1.
+Fonte: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados
+
+
+Desenvolva um programa, usando o VisualG, no qual tenha um algoritmo principal com dois vetores, um para armazenar os  nomes de cada unidade federativa e outro para armazenar os respectivos índices do ideb. 
+
+Esse programa deve ter uma subrotina que receba como parâmetro o nome de um estado e retorne o respectivo índice ideb. 
+
+O valor do ideb retornado deve ser exibido par o usuário. 
+
+Toda a entrada e toda saída de dados devem ocorrer no algoritmo principal.
